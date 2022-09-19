@@ -5,3 +5,6 @@
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=Carllasss&show_icons=true&include_all_commits=true)](https://github.com/Carllasss/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Carllasss&layout=compact)](https://github.com/Carllasss/github-readme-stats)
+
+## Technologies I working with:
+- ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![FastAPI](https://img.shields.io/badge/-FastAPI-red)
